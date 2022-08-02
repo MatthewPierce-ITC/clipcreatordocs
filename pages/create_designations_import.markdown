@@ -47,6 +47,6 @@ Import File Contents:
 29:12-30:09
 ```
 
-Once the process is complete, all of the clips should appear in both the Clips window and the data grid at the bottom of the applicaiton window.
+Once the process is complete, all of the clips should appear in both the Clips window and the data grid at the bottom of the application window.
 
 ![Screen Grab Clip Creator Import File Processed](../assets/import_complete.png)

@@ -7,7 +7,7 @@ nav_order: 3
 
 ### Clip Validation
 
-One of the major features of Clip Creator is clip validation.  Each clip is checked individually for range errors, and against the growing populaiton for potential conflicts.  Below we see an Overlap error, where the new designation overlaps with an existing one:
+One of the major features of Clip Creator is clip validation.  Each clip is checked individually for range errors, and against the growing population for potential conflicts.  Below we see an Overlap error, where the new designation overlaps with an existing one:
 
 > ![Animation - Merge Overlap Error](../assets/manualClipEntry_mergeOverlap.gif)
 
@@ -15,7 +15,7 @@ When the Merge Designations option is selected, Clip Creator combines the two de
 
 In addition to the overlap error, each new clip is checked against the population for:
 
-> - **Subset Range** - New clip is appears wholy inside an existing clip
-> - **Superset Range** - New clip encompases an existing clip
+> - **Subset Range** - New clip is appears wholly inside an existing clip
+> - **Superset Range** - New clip encompasses an existing clip
 > - **Duplicate Range** - New clip has the same range as an existing clip
-> - **Duplicate ID** - New clip has the same ID as an existin clip
+> - **Duplicate ID** - New clip has the same ID as an existing clip

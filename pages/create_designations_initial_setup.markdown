@@ -24,8 +24,8 @@ Selecting the Line Separator checkbox allows you to add another delimiter in the
 
 > ![Screen Grab - Line Separator option](../assets/depoInfo_AutoID_lineSeparator.png)
 
-The Lines Per Page number refers to the deposion transcript itself.  Generally this value is 25, but there are times when the court reporters may use something that differs from the standard.  Clip Creator uses this value to validate the clips as they are processed and alerting the user to potential errors.
+The Lines Per Page number refers to the deposition transcript itself.  Generally this value is 25, but there are times when the court reporters may use something that differs from the standard.  Clip Creator uses this value to validate the clips as they are processed and alerting the user to potential errors.
 
-The Descriptions checkbox enables the user to enter values for such on a clip-by-clip basis.  By clicking the Sticky checkbox, this enterd value is automatically added to each successive clip that is made.
+The Descriptions checkbox enables the user to enter values for such on a clip-by-clip basis.  By clicking the Sticky checkbox, this entered value is automatically added to each successive clip that is made.
 
 > ![Screen Grab - Description Field](../assets/manualClipEntry_non-StickyDescription.gif)
