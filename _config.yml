@@ -22,7 +22,10 @@ title: Clip Creator 3.0
 email: mpierce@impacttrial.com
 description: >- # this means to ignore newlines until "baseurl:"
   User documentation for Clip Creator application.
+
+#baseurl: ""
 baseurl: "clipcreatordocs" # the subpath of your site, e.g. /blog
+
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pierceincode
 github_username:  MatthewPierce-ITC
@@ -30,6 +33,7 @@ github_username:  MatthewPierce-ITC
 # Build settings
 #theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
+
 color_scheme: dark
 plugins:
   - jekyll-feed
