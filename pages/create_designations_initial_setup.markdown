@@ -8,7 +8,7 @@ parent: Create Designations
 
 ### Initial Setup
 
-First, select the format in which you will be saving the clips. TrialDirector® Clip Creation Script (.ccs), Sanction® Clip List (.txt), Tab Delimited or Comma Separated Values (.csv). 
+First, select the format in which you will be saving the clips: TrialDirector® Clip Creation Script (.ccs), Sanction® Clip List (.txt), Tab Delimited or Comma Separated Values (.csv). 
 
 > ![Screen Grab - Format Selection](../assets/ui_menu_settings_cropped.png)
 

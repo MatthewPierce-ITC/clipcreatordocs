@@ -15,6 +15,6 @@ With Clip Creator you will be able to quickly process deposition designations th
 > - **Overlapping clips**: Designation starts or stops in the middle of a previous designation 
 > - **Duplicate clips**
 
-In these instances Clip Creator will prompt you with a several of options to either resolve or ignore the errors.
+In these instances Clip Creator will prompt you with several of options to either resolve or ignore the errors.
 
 Clip Creator offers a variety of export formats making it an invaluable tool no matter what trial presentation system you are using: TrialDirector®, TrialMax®, or Sanction®.

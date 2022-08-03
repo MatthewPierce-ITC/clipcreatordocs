@@ -8,7 +8,7 @@ parent: Create Designations
 
 ### Import Text Files
 
-Importing is a very fast and easy method to get your clips into the proper format. As long as you have a text file containing the clips, with a single designation on each line Clip Creator will format and error check all entries.
+Importing is a very fast and easy method to get your clips into the proper format. As long as you have a text file containing the clips, with a single designation on each line, Clip Creator will format and error check all entries.
 
 ![Screen Grab - Manual Import Menu Item](../assets/ui_menu_settings_cropped.png)
 
